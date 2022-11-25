@@ -26,7 +26,7 @@ Before installing Teads adapter, you need to implement [Google Mobile Ads](https
 
 - Repository: `https://github.com/teads/TeadsSDK-iOS`
 - Dependency rule: `branch` 
-- Branch: `admob-spm`
+- Branch: `adapters-spm`
 
 ## Integration Documentation
 
